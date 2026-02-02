@@ -1,4 +1,3 @@
-# Outils pour la classe
 Outils pour la classe est un ensemble de solutions numériques conçues pour faciliter le travail des enseignants et améliorer la gestion de la classe au quotidien. Le projet regroupe plusieurs technologies complémentaires, toutes pensées pour être simples, rapides à utiliser et parfaitement intégrées aux outils déjà présents dans les établissements.
 
 # Notes de version : 1.0
